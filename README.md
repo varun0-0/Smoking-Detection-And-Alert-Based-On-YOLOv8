@@ -5,5 +5,5 @@ This project is based on Object Detection module which is trained on YOLOv8 . Th
 
 The images were collected and annotated using roboflow website and implemented into the code as the PyTorch module. 
 
-The annotated images used in this project is from this roboflow profile : https://universe.roboflow.com/project-oq1mv/smoking-detection-qiiqe
+ All the annotated images used in this project is from this roboflow profile : https://universe.roboflow.com/project-oq1mv/smoking-detection-qiiqe
 
