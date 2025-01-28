@@ -52,7 +52,7 @@ class ObjectDetection:
         smtp.starttls()
 
         smtp.login('testmailid@mail.com', 'the-security-string')
-        //set up an dev email with your prefered email provider.
+        # set up an dev email with your prefered email provider.
 
         print("mail id and password correct")
 
